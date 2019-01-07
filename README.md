@@ -1,3 +1,3 @@
-# TarBox
-js实现选项卡
-![Alt text](/img/tarBox.png)
+# SlideShow
+js实现轮播图
+![Alt text](/img/slide.png)
